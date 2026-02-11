@@ -23,7 +23,8 @@ Designed to provide a smooth user experience while demonstrating **DOM manipulat
   - Displays a clear **Error!** message for invalid input.
 
 - **Smart User Experience**:
-- 
+- - After pressing `=`, the next input automatically starts a new calculation.  
+  - Smooth interaction with responsive button feedback.
 - ## 🛠️ Technologies Used
 
 - **HTML5** – semantic layout and structured elements.  
@@ -36,5 +37,4 @@ Designed to provide a smooth user experience while demonstrating **DOM manipulat
 
 **Nada Ashraf** – Frontend Developer
 
-  - After pressing `=`, the next input automatically starts a new calculation.  
-  - Smooth interaction with responsive button feedback.
+  
